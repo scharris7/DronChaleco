@@ -17,4 +17,4 @@ Cables de conexión
 
 
 👥 Autores
-Este proyecto fue desarrollado por estudiantes de la Universidad Autónoma de Occidente (UAO) de Cali, como parte del Semillero de Investigación Robotic Autonomous System (R.A.S).
+Este proyecto fue desarrollado por los estudiantes Sebastián Charris Garzón y Juan Camilo Herrera Ramirez de la Universidad Autónoma de Occidente (UAO) de Cali, como parte del Semillero de Investigación Robotic Autonomous System (R.A.S).
